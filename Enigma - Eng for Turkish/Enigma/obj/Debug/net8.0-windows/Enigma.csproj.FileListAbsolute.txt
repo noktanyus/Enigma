@@ -1,0 +1,32 @@
+C:\Users\Administrator\source\repos\Enigma\Enigma\bin\Debug\net8.0-windows\Enigma.exe
+C:\Users\Administrator\source\repos\Enigma\Enigma\bin\Debug\net8.0-windows\Enigma.deps.json
+C:\Users\Administrator\source\repos\Enigma\Enigma\bin\Debug\net8.0-windows\Enigma.runtimeconfig.json
+C:\Users\Administrator\source\repos\Enigma\Enigma\bin\Debug\net8.0-windows\Enigma.dll
+C:\Users\Administrator\source\repos\Enigma\Enigma\bin\Debug\net8.0-windows\Enigma.pdb
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.Form1.resources
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.dll
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\refint\Enigma.dll
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.pdb
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\Enigma.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Enigma\Enigma\obj\Debug\net8.0-windows\ref\Enigma.dll
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\bin\Debug\net8.0-windows\Enigma.exe
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\bin\Debug\net8.0-windows\Enigma.deps.json
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\bin\Debug\net8.0-windows\Enigma.runtimeconfig.json
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\bin\Debug\net8.0-windows\Enigma.dll
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\bin\Debug\net8.0-windows\Enigma.pdb
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.Form1.resources
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.dll
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\refint\Enigma.dll
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.pdb
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\Enigma.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Enigma - Eng for Turkish\Enigma\obj\Debug\net8.0-windows\ref\Enigma.dll

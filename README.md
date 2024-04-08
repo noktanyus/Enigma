@@ -15,3 +15,4 @@ This project is a web form application capable of encrypting and decrypting text
 2. **Rotor Configuration:** Set the rotor sequence, starting positions, and other parameters.
 3. **Operation Selection:** Choose whether you want to encrypt or decrypt the text.
 4. **Result:** Obtain the encrypted/decrypted text and use it as needed.
+![image](https://github.com/noktanyus/Enigma/assets/76429925/66edae15-f249-4486-a953-8c2eb1aa746a)
